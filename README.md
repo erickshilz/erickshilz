@@ -10,7 +10,7 @@ Olá, sou Erick Shil, um jovem programador web e entusiasta de design com um pro
 
 - 📫 Para entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [erickeshil@gmail.com](mailto:erickeshil@gmail.com). Estou ansioso para contribuir, layoutando ou codando com a sua equipe. Venha, vamos resolver seus problemas!
 
-[![Erick Shil's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickshilz&show_icons=true&title_color=e2e927&icon_color=e2e927&bg_color=080808locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Erick Shil's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickshilz&show_icons=true&title_color=e2e927&icon_color=e2e927&bg_color=080808&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickshilz&title_color=e2e927&icon_color=e2e927&bg_color=080808&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 <!--
