@@ -10,11 +10,14 @@ Olá, sou Erick Shil, um jovem programador web e entusiasta de design com um pro
 
 - 📫 Para entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [erickeshil@gmail.com](mailto:erickeshil@gmail.com). Estou ansioso para contribuir, layoutando ou codando com a sua equipe. Venha, vamos resolver seus problemas!
 
+<p align="center">
+
 [![Erick Shil's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickshilz&show_icons=true&title_color=e2e927&text_color=f7f7f7&icon_color=e2e927&bg_color=080808&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickshilz&title_color=e2e927&text_color=f7f7f7&icon_color=e2e927&bg_color=080808&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LinkedIn](https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8)](https://www.linkedin.com/in/erick-shil-196215296/)
 [![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_(2020).svg/80px-Gmail_icon_(2020).svg.png)](mailto:erickeshil@gmail.com)
 
+</p>
 <!--
 **Erick-Shil/Erick-Shil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
