@@ -12,7 +12,8 @@ Olá, sou Erick Shil, um jovem programador web e entusiasta de design com um pro
 
 [![Erick Shil's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickshilz&show_icons=true&title_color=e2e927&text_color=f7f7f7&icon_color=e2e927&bg_color=080808&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickshilz&title_color=e2e927&text_color=f7f7f7&icon_color=e2e927&bg_color=080808&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-:[![LinkedIn](https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8)](https://www.linkedin.com/in/erick-shil-196215296/)[![Gmail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico)](mailto:erickeshil@gmail.com):
+[![LinkedIn](https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8)](https://www.linkedin.com/in/erick-shil-196215296/)
+[![Gmail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico)](mailto:erickeshil@gmail.com)
 
 <!--
 **Erick-Shil/Erick-Shil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
